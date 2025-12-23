@@ -4,8 +4,8 @@
 
 ## Hi there 👋
 
-### Systolic Array Architecture
-![Systolic Array](./assets/systolic_array.gif)
+![Systolic Array](https://raw.githubusercontent.com/YOUR_USERNAME/Systolic_Array_Accelerator/main/assets/systolic_array.gif)
+
 
 
 
