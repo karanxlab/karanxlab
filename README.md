@@ -1,4 +1,4 @@
-![Banner](gitbanner.png)
+![Banner](karanxlab.png)
 
 ## Hi there 👋
 
