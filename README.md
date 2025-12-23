@@ -3,7 +3,7 @@
 
 
 ## Hi there 👋
-![Profile Views](https://komarev.com/ghpvc/?username=karanxlab&color=0e75b6&style=flat)
+
 
 
 
