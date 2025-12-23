@@ -1,4 +1,4 @@
-![Banner](karanxlab.png)
+![Banner](karanxlab.gif)
 
 ## Hi there 👋
 
