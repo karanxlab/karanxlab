@@ -1,4 +1,7 @@
+![Banner](gitbanner.png)
+
 ## Hi there 👋
+
 
 <!--
 **karanxlab/karanxlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
