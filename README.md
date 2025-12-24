@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_GIF_OR_IMAGE_URL"
+  <img src="[YOUR_GIF_OR_IMAGE_URL](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"
        width="100%"
        style="max-width: 1000px;" />
 </p>
